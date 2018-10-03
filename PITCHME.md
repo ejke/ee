@@ -8,7 +8,7 @@ The 14 cases in Estonian language
 
 ---
 
-@size[1em](
+@size[.5em](
 1. Who? What?
 2. Whose? (mine!)
 3. Whom? What? (to see)
