@@ -1,8 +1,13 @@
-# Flux 
+# Käänded 
 
-An application architecture for React
+The 14 cases in Estonian language
 
 ---
+
+![Flux Explained](https://www.taskutark.ee/m/wp-content/uploads/sites/2/2016/07/14k%C3%A4%C3%A4net.png)
+
+---
+
 
 ### Flux Design
 
@@ -11,5 +16,3 @@ An application architecture for React
 - Views: Render Data via React
 
 ---
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
