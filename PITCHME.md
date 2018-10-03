@@ -8,11 +8,11 @@ The 14 cases in Estonian language
 
 ---
 
-@size[.5em](1. Who? What?) 
-@size[.5em](2. Whose? *mine!*) 
-@size[.5em](3. Whom? What? *to see*) 
+@size[.5em](1. Who? What?)  
+@size[.5em](2. Whose? *mine!*)  
+@size[.5em](3. Whom? What? *to see*)  
 @size[.5em](4. Into whom? Into what? Where to?)  
-@size[.5em](5. In whom? In what? Where?) 
+@size[.5em](5. In whom? In what? Where?)  
 @size[.5em](6. Of whom? Of What? Coming from where? *from inside* ) 
 @size[.5em](7. To whom? To what? *Onto*) 
 @size[.5em](8. On whom? On What?) 
