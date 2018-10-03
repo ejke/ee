@@ -10,13 +10,19 @@ The 14 cases in Estonian language
 1. Who? What?
 2. Whose? (mine!)
 3. Whom? What? (to see)
+
 4. Into whom? Into what? Where to?
 5. In whom? In what? Where?
 6. Of whom? Of What? Coming from where?  (from inside) 
+
 7. To whom? To what? (Onto)
 8. On whom? On What?
 9. From whom? From What?
+
+---
+
 10. To become whom? To become what?
+
 11. Until whom? Until what? (making way)
 12. As whom? As what? (acting as)
 13. Without whom? Without what?
