@@ -8,7 +8,7 @@ The 14 cases in Estonian language
 
 ---
 
-@size[.5em](
+@size[.5em](1. Who? What?)
 1. Who? What?
 2. Whose? (mine!)
 3. Whom? What? (to see)
@@ -23,7 +23,7 @@ The 14 cases in Estonian language
 12. As whom? As what? (acting as)
 13. Without whom? Without what?
 14. With who? With what?
-)
+
 ---
 
 ### Which words can be modified with cases?
