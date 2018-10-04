@@ -1,3 +1,47 @@
+# Kordamine
+
+Stuff from last time
+---
+1
+---
+4
+---
+10
+---
+13
+---
+21
+---
+66
+---
+789
+---
+2018
+---
+Hi!
+---
+Kuidas läheb?
+---
+Name
+---
+Mis su nimi on?
+---
+Who are you?
+---
+Kus on Raekoja plats?
+---
+How do I get there?
+---
+Vasak   -   Parem
+
+Vasakule    -   Paremale
+---
+Otse = straight, edasi = further
+
+Tagasi = back
+---
+
+---
 # Käänded
 
 The 14 cases in Estonian language
@@ -38,5 +82,6 @@ Words used in questions
 - miks  =   why
 - kas   =   if, whether
 - kuidas=   how
-- kui palju = how many
-- kas, miks, mitmes, mitu, kui palju
+- kui   =   if, when
+- kui palju = how much
+- mitu  =   how many
