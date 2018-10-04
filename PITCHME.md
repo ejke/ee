@@ -8,7 +8,7 @@ The 14 cases in Estonian language
 
 ---
 
-![Cases_questions_in_english](https://github.com/ejke/ee/blob/master/assets/img/cases_qs.png)
+![Cases_questions_in_english](assets/img/cases_qs.png)
 
 ---
 
