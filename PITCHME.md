@@ -26,7 +26,7 @@ The 14 cases in Estonian language
 
 ---
 
-#Küsisõnad
+###Küsisõnad
 
 Words used in questions
 
