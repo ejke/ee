@@ -56,6 +56,7 @@ väljal kivivõsa aunasid -
 
 eile nägin ma Eestimaad
 
+---
 
 Eile nägin ma Eestimaad!
 
@@ -67,6 +68,7 @@ Kadaka-, lepavõsasid!
 
 Eile nägin ma Eestimaad!
 
+---
 
 Eile nägin ma Eestimaad!
 
@@ -77,6 +79,7 @@ suikumise ja näotuse paik,
 vaimuilm nii hämaras, vaik -
 
 eile nägin ma Eestimaad!
+
 ---
 http://kaart.postimees.ee/
 ---
