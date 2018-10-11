@@ -8,6 +8,34 @@ https://www.taskutark.ee/m/test/minevik-ja-olevik-lohista-sona-oigesse-kasti/
 https://www.taskutark.ee/m/tegusona-pooramine/
 ---
 
+Olevik ja minevik
+@ul
+- OneQRawdLv4
+- two
+- three
+@ulend
+---
+@snap[north west]
+Olevik: Present simple/continuous
+Ma loen raamatut: I read the book
+@snapend
+
+@snap[north east process fragment]
+Lihtminevik: Past simple
+Ma lugesin raamatut: I read the book
+@snapend
+
+@snap[midpoint east process fragment]
+Täisminevik: Present perfect
+Ma olen lugenud raamatut: I have read the book
+@snapend
+
+@snap[south east process process-go fragment]
+Enneminevik: Past perfect
+Ma olin lugenud raamatut: I had read the book.
+@snapend
+
+---
 @snap[north west]
 Olevik: Present simple/continuous
 Ma loen raamatut: I read the book
