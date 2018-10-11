@@ -1,87 +1,81 @@
-# Kordamine
+# Aeg
 
-Stuff from last time
+Time in Grammar
 ---
-1
----
-4
----
-10
----
-13
----
-21
----
-66
----
-789
----
-2018
----
-Hi!
----
-Kuidas läheb?
----
-Name
----
-Mis su nimi on?
----
-Who are you?
----
-Kus on Raekoja plats?
----
-How do I get there?
----
-Vasak   -   Parem
+https://www.taskutark.ee/m/tegusona-aeg/
+https://www.taskutark.ee/m/olevik-ja-minevik/
+https://www.taskutark.ee/m/test/minevik-ja-olevik-lohista-sona-oigesse-kasti/
+https://www.taskutark.ee/m/tegusona-pooramine/
+Olevik ja minevik
+Present simple/continuous
+Ma loen raamatut: I am reading the book:
 
-Vasakule    -   Paremale
----
-Otse = straight, edasi = further
+@snap[north]
+@css[message black](The Process)
+@snapend
 
-Tagasi = back
----
+@snap[west process fragment]
+Lihtminevik: Past simple
+Ma lugesin raamatut: I read the book
+@snapend
+
+@snap[midpoint process fragment]
+Täisminevik: Present perfect
+Ma olen lugenud raamatut: I have read the book
+@snapend
+
+@snap[east process process-go fragment]
+Enneminevik: Past perfect
+Ma olin lugenud raamatut: I had read the book.
+@snapend
 
 ---
-# Käänded
-
-The 14 cases in Estonian language
-
+https://www.englishclub.com/grammar/verb-tenses-tense-time.htm
+---
+https://www.taskutark.ee/m/test/minevik-ja-olevik-vali-kas-sona-on-minevikus-voi-olevikus/
 ---
 
-![Cases](https://www.taskutark.ee/m/wp-content/uploads/sites/2/2016/07/14k%C3%A4%C3%A4net.png)
-
+https://www.youtube.com/watch?v=zJZbX9q7oxI
+---
+https://www.youtube.com/watch?v=iQ-SmSUAw2w
 ---
 
-![Cases_questions_in_english](assets/img/cases_qs.png)
+Eile nägin ma Eestimaad!
 
+Nägin hurtsikuid, saunasid,
+
+nägin pagaasi ja paunasid,
+
+väljal kivivõsa aunasid -
+
+eile nägin ma Eestimaad
+
+
+Eile nägin ma Eestimaad!
+
+Lagunud talumajasid!
+
+Oh kui rammetuid rajasid!
+
+Kadaka-, lepavõsasid!
+
+Eile nägin ma Eestimaad!
+
+
+Eile nägin ma Eestimaad!
+
+Põõsastikud ja võsad kõik
+
+suikumise ja näotuse paik,
+
+vaimuilm nii hämaras, vaik -
+
+eile nägin ma Eestimaad!
+---
+http://kaart.postimees.ee/
 ---
 
-### Which words can be modified with cases?
-
-- Nouns = nimisõnad
-- Adjactives = omadussõnad
-- Numbers = arvsõnad
-- Pronouns = asesõnad
+https://youtu.be/OneQRawdLv4?t=46
 
 ---
-
-![Cases in singular](https://www.taskutark.ee/m/wp-content/uploads/sites/2/2016/07/14k%C3%A4%C3%A4netainsus.png)
-
-
----
-
-# Küsisõnad
-
-Words used in questions
-
----
-
-- kes   =   who
-- mis   =   what
-- kus   =   where
-- miks  =   why
-- kas   =   if, whether
-- kuidas=   how
-- kui   =   if, when
-- kui palju = how much
-- mitu  =   how many
+https://www.youtube.com/watch?v=Ib1NCCD68lo&t=12s
