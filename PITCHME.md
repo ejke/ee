@@ -100,6 +100,21 @@ Sunday, 7 July
 https://www.youtube.com/watch?v=Ib1NCCD68lo&t=12s
 
 ---
+
+- laul
+- tants
+- pidu
+- laulupidu
+- tantsupidu
+- väljak
+- ajalugu
+- vabadus
+- minevik
+- olevik
+- tulevik
+
+
+---
 laev<br/>
 praam<br/>
 lennuk<br/>
