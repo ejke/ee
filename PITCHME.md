@@ -32,7 +32,7 @@ Exercise
 - https://www.taskutark.ee/m/test/minevik-ja-olevik-vali-kas-sona-on-minevikus-voi-olevikus/
 
 ---
-Extra reading
+More reading
 - https://www.taskutark.ee/m/tegusona-aeg/
 - https://www.taskutark.ee/m/olevik-ja-minevik/
 - https://www.taskutark.ee/m/tegusona-pooramine/
@@ -88,3 +88,16 @@ https://youtu.be/OneQRawdLv4?t=46
 
 ---
 https://www.youtube.com/watch?v=Ib1NCCD68lo&t=12s
+
+---
+laev
+praam
+lennuk
+helikopter
+auto
+buss
+tramm
+troll (trollibuss)
+jalgratas
+mootorratas
+rula
