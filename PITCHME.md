@@ -2,16 +2,10 @@
 
 Time in Grammar
 ---
-https://www.taskutark.ee/m/tegusona-aeg/
-https://www.taskutark.ee/m/olevik-ja-minevik/
-https://www.taskutark.ee/m/test/minevik-ja-olevik-lohista-sona-oigesse-kasti/
-https://www.taskutark.ee/m/tegusona-pooramine/
----
-
 
 @snap[west]
 Olevik: Present simple/continuous<br/>
-Ma loen raamatut: I read the book
+Ma loen raamatut: I read the book, I am reading the book.
 @snapend
 
 ---
@@ -32,30 +26,19 @@ Ma olin lugenud raamatut: I had read the book.
 @snapend
 
 ---
-@snap[north west]
-Olevik: Present simple/continuous
-Ma loen raamatut: I read the book
-@snapend
-
-@snap[north east process fragment]
-Lihtminevik: Past simple
-Ma lugesin raamatut: I read the book
-@snapend
-
-@snap[midpoint east process fragment]
-Täisminevik: Present perfect
-Ma olen lugenud raamatut: I have read the book
-@snapend
-
-@snap[south east process process-go fragment]
-Enneminevik: Past perfect
-Ma olin lugenud raamatut: I had read the book.
-@snapend
-
----
 https://www.englishclub.com/grammar/verb-tenses-tense-time.htm
 ---
-https://www.taskutark.ee/m/test/minevik-ja-olevik-vali-kas-sona-on-minevikus-voi-olevikus/
+Exercise
+- https://www.taskutark.ee/m/test/minevik-ja-olevik-vali-kas-sona-on-minevikus-voi-olevikus/
+
+---
+Extra reading
+- https://www.taskutark.ee/m/tegusona-aeg/
+- https://www.taskutark.ee/m/olevik-ja-minevik/
+- https://www.taskutark.ee/m/tegusona-pooramine/
+Exercise:
+- https://www.taskutark.ee/m/test/minevik-ja-olevik-lohista-sona-oigesse-kasti/
+
 ---
 
 https://www.youtube.com/watch?v=zJZbX9q7oxI
