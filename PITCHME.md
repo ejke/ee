@@ -8,31 +8,26 @@ https://www.taskutark.ee/m/test/minevik-ja-olevik-lohista-sona-oigesse-kasti/
 https://www.taskutark.ee/m/tegusona-pooramine/
 ---
 
-@snap[north-west process fragment]
-Olevik: Present simple/continuous
-@snapend
 
-@snap[west process fragment]
+@snap[west]
+Olevik: Present simple/continuous<br/>
 Ma loen raamatut: I read the book
 @snapend
 
 ---
 
 @snap[north-east process fragment]
-Lihtminevik: Past simple
-
+Lihtminevik: Past simple<br/>
 Ma lugesin raamatut: I read the book
 @snapend
 
 @snap[east process fragment]
-Täisminevik: Present perfect
-
+Täisminevik: Present perfect<br/>
 Ma olen lugenud raamatut: I have read the book
 @snapend
 
 @snap[south-east process process fragment]
-Enneminevik: Past perfect
-
+Enneminevik: Past perfect<br/>
 Ma olin lugenud raamatut: I had read the book.
 @snapend
 
