@@ -15,22 +15,22 @@ Olevik ja minevik
 - three
 @ulend
 ---
-@snap[north west]
+@snap[north-west]
 Olevik: Present simple/continuous
 Ma loen raamatut: I read the book
 @snapend
 
-@snap[north east process fragment]
+@snap[north-east process fragment]
 Lihtminevik: Past simple
 Ma lugesin raamatut: I read the book
 @snapend
 
-@snap[midpoint east process fragment]
+@snap[east process fragment]
 Täisminevik: Present perfect
 Ma olen lugenud raamatut: I have read the book
 @snapend
 
-@snap[south east process process-go fragment]
+@snap[south-east process process-go fragment]
 Enneminevik: Past perfect
 Ma olin lugenud raamatut: I had read the book.
 @snapend
