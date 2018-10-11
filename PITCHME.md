@@ -87,17 +87,27 @@ http://kaart.postimees.ee/
 https://youtu.be/OneQRawdLv4?t=46
 
 ---
+
+
+![Laulopeo logo](https://2019.laulupidu.ee/wp-content/themes/laulupidu2019-main/theme/images/header-logo.png)
+
+2019 Estonian Song Festival will begin on
+Friday, 5 July
+and ends on
+Sunday, 7 July
+---
+
 https://www.youtube.com/watch?v=Ib1NCCD68lo&t=12s
 
 ---
-laev
-praam
-lennuk
-helikopter
-auto
-buss
-tramm
-troll (trollibuss)
-jalgratas
-mootorratas
-rula
+laev<br/>
+praam<br/>
+lennuk<br/>
+helikopter<br/>
+auto<br/>
+buss<br/>
+tramm<br/>
+troll (trollibuss)<br/>
+jalgratas<br/>
+mootorratas<br/>
+rula<br/>
