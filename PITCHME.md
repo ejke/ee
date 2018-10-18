@@ -13,27 +13,24 @@
 @snap[north-west fragment]
 <img alt="Pipedrive" src="https://www.leadliaison.com/wp-content/uploads/2016/09/logodarkpiepdrive.png" style="width: 90%; border: none; background: none; box-shadow: none;" />
 @snapend
-@snap[north-east fragment]
-<img alt="Starship" src="https://www.digitalgreenwich.com/wp-content/uploads/2015/11/starship3.jpg" style="width: 50%; border: none; background: none; box-shadow: none;" />
+@snap[south fragment]
+<img alt="Funderbeam" src="https://www.funderbeam.com/assets/images/d0736e4a.FB_black.png" style="width: 100%; border: none; background: none; box-shadow: none;" />
 @snapend
 @snap[south-west fragment]
 <img alt="TransferWise" src="https://www.pymnts.com/wp-content/uploads/2017/02/TransferWise-Facebook.png" style="width: 30%; border: none; background: none; box-shadow: none;" />
 @snapend
-@snap[south fragment]
-<img alt="Funderbeam" src="https://www.funderbeam.com/assets/images/d0736e4a.FB_black.png" style="width: 100%; border: none; background: none; box-shadow: none;" />
+@snap[north-east fragment]
+<img alt="Starship" src="https://www.digitalgreenwich.com/wp-content/uploads/2015/11/starship3.jpg" style="width: 50%; border: none; background: none; box-shadow: none;" />
 @snapend
 @snap[south-east fragment]
-<img alt="Lingvist" src="https://pbs.twimg.com/media/DpJRqekWkAETzhs.png" style="width: 70%; border: none; background: none; box-shadow: none;" />
+<img alt="Lingvist" src="https://pbs.twimg.com/media/DpJRqekWkAETzhs.png" style="width: 50%; border: none; background: none; box-shadow: none;" />
 @snapend
 @snap[west fragment]
 <img alt="Taxify" src="https://www.techbooky.com/wp-content/uploads/2017/11/taxify.jpg" style="width: 40%; border: none; background: none; box-shadow: none;" />
 @snapend
 @snap[east fragment]
-<img alt="Jobbatical" src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.broketourist.net%2Fwp-content%2Fuploads%2FJobbatical_Feat-290x290.jpg&f=1" style="width: 100%; border: none; background: none; box-shadow: none;" />
+<img alt="Jobbatical" src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.broketourist.net%2Fwp-content%2Fuploads%2FJobbatical_Feat-290x290.jpg&f=1" style="width: 80%; border: none; background: none; box-shadow: none;" />
 @snapend
-
----
-![Starship and old man](https://o.aolcdn.com/images/dims?quality=100&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fceec8143fcb040f70150b764c8702308%2F202903595%2Fstarship.jpg&client=amp-blogside-v2&signature=aede7939dc706d7be97df82fcd9a6ec150763a98)
 
 ---
 <img src="https://o.aolcdn.com/images/dims?quality=100&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fceec8143fcb040f70150b764c8702308%2F202903595%2Fstarship.jpg&client=amp-blogside-v2&signature=aede7939dc706d7be97df82fcd9a6ec150763a98" style="border: none; background: none; box-shadow: none;" />
