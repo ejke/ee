@@ -13,13 +13,13 @@
 @snap[north-west fragment]
 <img alt="Pipedrive" src="https://www.leadliaison.com/wp-content/uploads/2016/09/logodarkpiepdrive.png" style="width: 90%; border: none; background: none; box-shadow: none;" />
 @snapend
-@snap[south fragment]
+@snap[north-east fragment]
 <img alt="Funderbeam" src="https://www.funderbeam.com/assets/images/d0736e4a.FB_black.png" style="width: 100%; border: none; background: none; box-shadow: none;" />
 @snapend
 @snap[south-west fragment]
 <img alt="TransferWise" src="https://www.pymnts.com/wp-content/uploads/2017/02/TransferWise-Facebook.png" style="width: 30%; border: none; background: none; box-shadow: none;" />
 @snapend
-@snap[north-east fragment]
+@snap[south fragment]
 <img alt="Starship" src="https://www.digitalgreenwich.com/wp-content/uploads/2015/11/starship3.jpg" style="width: 50%; border: none; background: none; box-shadow: none;" />
 @snapend
 @snap[south-east fragment]
@@ -35,7 +35,7 @@
 ---
 <img src="https://o.aolcdn.com/images/dims?quality=100&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fceec8143fcb040f70150b764c8702308%2F202903595%2Fstarship.jpg&client=amp-blogside-v2&signature=aede7939dc706d7be97df82fcd9a6ec150763a98" style="border: none; background: none; box-shadow: none;" />
 ---
-![Starship and me](https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/44187726_643065866089989_6807284436992786432_n.jpg?_nc_cat=108&oh=b0c55ccb8fb66157769c1cdc34d6b8a3&oe=5C52E74D)
+<img alt="Starship and me" src="https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/44187726_643065866089989_6807284436992786432_n.jpg?_nc_cat=108&oh=b0c55ccb8fb66157769c1cdc34d6b8a3&oe=5C52E74D" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
 
 @css[title-top-right](E-residentsus)
@@ -44,8 +44,7 @@
 ---
 
 @css[title-top-right](Leib)
-![Leib](https://2.bp.blogspot.com/-hR7767QhR3U/V-jCbAqCTwI/AAAAAAAATHc/9-ImxHH7esAH139F3VNw4UvPe25lUJ5sgCLcB/s1600/DSC01239.jpg)
-
+<img alt="leib" src="https://2.bp.blogspot.com/-hR7767QhR3U/V-jCbAqCTwI/AAAAAAAATHc/9-ImxHH7esAH139F3VNw4UvPe25lUJ5sgCLcB/s1600/DSC01239.jpg" style="heigth: 100%; border: none; background: none; box-shadow: none;" />
 ---
 
 https://www.cl.ut.ee/ressursid/sagedused1/failid/sonavorm_ilu_kahanevas.txt
