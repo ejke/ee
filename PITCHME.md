@@ -4,6 +4,10 @@
 ![Estonian Maffia, wall of fame](https://twitter.com/michaelghandour/status/1050992620531539968)
 
 ---
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/ragnars?ref_src=twsrc%5Etfw">@ragnars</a> for hosting us and sharing the inspiring ethos and journey of <a href="https://twitter.com/LIFT99co?ref_src=twsrc%5Etfw">@LIFT99co</a>. So impressed by the global ambitions and accomplishments of the growing <a href="https://twitter.com/hashtag/estonianmafia?src=hash&amp;ref_src=twsrc%5Etfw">#estonianmafia</a>. 👏 <a href="https://t.co/myqqjXIUTd">pic.twitter.com/myqqjXIUTd</a></p>&mdash; Michael Ghandour (@michaelghandour) <a href="https://twitter.com/michaelghandour/status/1050992620531539968?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
 
 <!-- Estonia has the most startups per capita in the EU. -->
 
