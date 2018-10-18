@@ -2,11 +2,11 @@
 
 ---
 
-<img alt="Estonian Maffia" src="https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/44219838_756468211371577_1863675486140366848_n.png?_nc_cat=111&oh=dd38efb29c8863f014fbbf7efd6b9b03&oe=5C47617F" style="width: 100%; border: none; background: none; box-shadow: none;" />
+<img alt="Estonian Maffia" src="https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/44219838_756468211371577_1863675486140366848_n.png?_nc_cat=111&oh=dd38efb29c8863f014fbbf7efd6b9b03&oe=5C47617F" style="heigth: 70%; border: none; background: none; box-shadow: none;" />
 
 ---
 
-<img alt="Wall of fame" src="https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/44221416_244978189511656_5691098921539993600_n.png?_nc_cat=105&oh=c323d9614ca5cdc7cf1a2eb43671d610&oe=5C6008A2" style="width: 90%; border: none; background: none; box-shadow: none;" />
+<img alt="Wall of fame" src="https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/44221416_244978189511656_5691098921539993600_n.png?_nc_cat=105&oh=c323d9614ca5cdc7cf1a2eb43671d610&oe=5C6008A2" style="width: 100%; border: none; background: none; box-shadow: none;" />
 
 ---
 
