@@ -36,20 +36,17 @@
 ![Starship and old man](https://o.aolcdn.com/images/dims?quality=100&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fceec8143fcb040f70150b764c8702308%2F202903595%2Fstarship.jpg&client=amp-blogside-v2&signature=aede7939dc706d7be97df82fcd9a6ec150763a98)
 
 ---
-![Starship and me](assets/img/star-mina.jpg)
+<img src="https://o.aolcdn.com/images/dims?quality=100&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fceec8143fcb040f70150b764c8702308%2F202903595%2Fstarship.jpg&client=amp-blogside-v2&signature=aede7939dc706d7be97df82fcd9a6ec150763a98" style="width: 30%; border: none; background: none; box-shadow: none;" />
 ---
-
-<!-- # E-residentsus -->
+![Starship and me](https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/44187726_643065866089989_6807284436992786432_n.jpg?_nc_cat=108&oh=b0c55ccb8fb66157769c1cdc34d6b8a3&oe=5C52E74D)
+---
 
 @css[title-top-right](E-residentsus)
 ![E-res video](https://www.youtube.com/embed/vzknLXQfnSM)
 
 ---
 
-@snap[north-west fragment]
-Leib
-@snapend
-
+@css[title-top-right](Leib)
 ![Leib](https://2.bp.blogspot.com/-hR7767QhR3U/V-jCbAqCTwI/AAAAAAAATHc/9-ImxHH7esAH139F3VNw4UvPe25lUJ5sgCLcB/s1600/DSC01239.jpg)
 
 ---
