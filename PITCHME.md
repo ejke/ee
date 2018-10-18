@@ -46,7 +46,7 @@
 ---
 
 @css[title-top-right](Leib)
-<img alt="leib" src="https://2.bp.blogspot.com/-hR7767QhR3U/V-jCbAqCTwI/AAAAAAAATHc/9-ImxHH7esAH139F3VNw4UvPe25lUJ5sgCLcB/s1600/DSC01239.jpg" style="heigth: 80%; border: none; background: none; box-shadow: none;" />
+<img alt="leib" src="https://2.bp.blogspot.com/-hR7767QhR3U/V-jCbAqCTwI/AAAAAAAATHc/9-ImxHH7esAH139F3VNw4UvPe25lUJ5sgCLcB/s1600/DSC01239.jpg" style="width: 50%; border: none; background: none; box-shadow: none;" />
 ---
 
 https://www.cl.ut.ee/ressursid/sagedused1/failid/sonavorm_ilu_kahanevas.txt
