@@ -1,11 +1,12 @@
 # E-Eesti
 
 ---
-![Estonian Maffia, wall of fame](https://twitter.com/michaelghandour/status/1050992620531539968)
+
+<img alt="Estonian Maffia" src="https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/44219838_756468211371577_1863675486140366848_n.png?_nc_cat=111&oh=dd38efb29c8863f014fbbf7efd6b9b03&oe=5C47617F" style="width: 100%; border: none; background: none; box-shadow: none;" />
 
 ---
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/ragnars?ref_src=twsrc%5Etfw">@ragnars</a> for hosting us and sharing the inspiring ethos and journey of <a href="https://twitter.com/LIFT99co?ref_src=twsrc%5Etfw">@LIFT99co</a>. So impressed by the global ambitions and accomplishments of the growing <a href="https://twitter.com/hashtag/estonianmafia?src=hash&amp;ref_src=twsrc%5Etfw">#estonianmafia</a>. 👏 <a href="https://t.co/myqqjXIUTd">pic.twitter.com/myqqjXIUTd</a></p>&mdash; Michael Ghandour (@michaelghandour) <a href="https://twitter.com/michaelghandour/status/1050992620531539968?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<img alt="Wall of fame" src="https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/44221416_244978189511656_5691098921539993600_n.png?_nc_cat=105&oh=c323d9614ca5cdc7cf1a2eb43671d610&oe=5C6008A2" style="width: 90%; border: none; background: none; box-shadow: none;" />
 
 ---
 
