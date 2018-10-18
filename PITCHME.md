@@ -29,7 +29,7 @@
 ![Taxify](https://www.techbooky.com/wp-content/uploads/2017/11/taxify.jpg)
 @snapend
 @snap[east fragment]
-![Jobbatical](https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.broketourist.net%2Fwp-content%2Fuploads%2FJobbatical_Feat-290x290.jpg&f=1)
+<img alt="Jobbatical" src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.broketourist.net%2Fwp-content%2Fuploads%2FJobbatical_Feat-290x290.jpg&f=1" style="width: 30%; border: none; background: none; box-shadow: none;" />
 @snapend
 
 ---
