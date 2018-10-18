@@ -29,22 +29,19 @@
 <img alt="Taxify" src="https://www.techbooky.com/wp-content/uploads/2017/11/taxify.jpg" style="width: 40%; border: none; background: none; box-shadow: none;" />
 @snapend
 @snap[east fragment]
-<img alt="Jobbatical" src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.broketourist.net%2Fwp-content%2Fuploads%2FJobbatical_Feat-290x290.jpg&f=1" style="width: 80%; border: none; background: none; box-shadow: none;" />
+<img alt="Jobbatical" src="https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.broketourist.net%2Fwp-content%2Fuploads%2FJobbatical_Feat-290x290.jpg&f=1" style="width: 80%; margin-top: 20%; border: none; background: none; box-shadow: none;" />
 @snapend
-
 ---
 <img src="https://o.aolcdn.com/images/dims?quality=100&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fceec8143fcb040f70150b764c8702308%2F202903595%2Fstarship.jpg&client=amp-blogside-v2&signature=aede7939dc706d7be97df82fcd9a6ec150763a98" style="border: none; background: none; box-shadow: none;" />
 ---
 <img alt="Starship and me" src="https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/s2048x2048/44187726_643065866089989_6807284436992786432_n.jpg?_nc_cat=108&oh=b0c55ccb8fb66157769c1cdc34d6b8a3&oe=5C52E74D" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
-
 @css[title-top-right](E-residentsus)
 ![E-res video](https://www.youtube.com/embed/vzknLXQfnSM)
-
 ---
 
 @css[title-top-right](Leib)
-<img alt="leib" src="https://2.bp.blogspot.com/-hR7767QhR3U/V-jCbAqCTwI/AAAAAAAATHc/9-ImxHH7esAH139F3VNw4UvPe25lUJ5sgCLcB/s1600/DSC01239.jpg" style="heigth: 100%; border: none; background: none; box-shadow: none;" />
+<img alt="leib" src="https://2.bp.blogspot.com/-hR7767QhR3U/V-jCbAqCTwI/AAAAAAAATHc/9-ImxHH7esAH139F3VNw4UvPe25lUJ5sgCLcB/s1600/DSC01239.jpg" style="heigth: 80%; border: none; background: none; box-shadow: none;" />
 ---
 
 https://www.cl.ut.ee/ressursid/sagedused1/failid/sonavorm_ilu_kahanevas.txt
