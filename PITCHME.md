@@ -2,7 +2,7 @@
 
 ---
 
-<img alt="Estonian Maffia" src="https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/44219838_756468211371577_1863675486140366848_n.png?_nc_cat=111&oh=dd38efb29c8863f014fbbf7efd6b9b03&oe=5C47617F" style="heigth: 40%; margin-top: 10%; border: none; background: none; box-shadow: none;" />
+<img alt="Estonian Maffia" src="https://scontent-lhr3-1.xx.fbcdn.net/v/t1.15752-9/44219838_756468211371577_1863675486140366848_n.png?_nc_cat=111&oh=dd38efb29c8863f014fbbf7efd6b9b03&oe=5C47617F" style="heigth: 40%; margin-top: -20%; border: none; background: none; box-shadow: none;" />
 
 ---
 
