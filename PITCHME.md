@@ -103,7 +103,7 @@ Etteütlus
 Tartu ülikool on Eesti vanim ülikool. See on asutatud 1632. aastal Rootsi kuninga Gustav II Adolfi poolt. Tartu ülikoolil on filiaalid Tallinnas, Narvas, Viljandis ja Pärnus. Viljandis saab õppida näiteks teatrit ja pärimusmuusikat. Viimast saab õppida ka Tallinnas asuvas Eesti Muusika- ja Teatriakadeemias. Lisaks on Tallinnas veel Tallinna ülikool ja Tallinna Tehnikaülikool. Tehnikaülikoolis toimub Robotex, maailma suurim robootikafestival.
 ---
 @snap[north-west ]
-Viljandi Kultuuriakadeemia
+<span style="background: white; padding: 0 .5rem;">Viljandi Kultuuriakadeemia</span>
 @snapend
 <!-- ![VKA](https://s.err.ee/photo/crop/2016/03/22/241834h6038t28.jpg) -->
 <img alt="VKA" src="https://s.err.ee/photo/crop/2016/03/22/241834h6038t28.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
@@ -140,7 +140,7 @@ Viljandi Kultuuriakadeemia
 # Toit
 ---
 
-# Leib
+### Leib
 @css[title-top-left](Leib)
 <img alt="leib" src="https://2.bp.blogspot.com/-hR7767QhR3U/V-jCbAqCTwI/AAAAAAAATHc/9-ImxHH7esAH139F3VNw4UvPe25lUJ5sgCLcB/s1600/DSC01239.jpg" style="width: 50%; border: none; background: none; box-shadow: none;" />
 ---
