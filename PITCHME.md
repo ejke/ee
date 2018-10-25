@@ -72,7 +72,7 @@ e-tuludeklaratsioon est. 1999. 2009 online 90%
 <img alt="Lasteaed" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Tallinna_Meelespea_Lasteaed.JPG" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
 @snap[north-west ]
-Kool
+<span style="background: white; padding: 0 .5rem;">Kool</span>
 @snapend
 
 <img alt="Kool" src="https://www.riigigymnaasiumid.ee/files/news/1587493912520197548361603548885160719500208o.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
@@ -82,11 +82,11 @@ Põhikool (5-9. klass)<br>
 Keskkool aka Gümnaasium (10-12. klass)
 ---
 @snap[north-west ]
-Ülikool
+<span style="background: white; padding: 0 .5rem;">Ülikool</span>
 @snapend
 <img alt="Ülikool" src="https://www.ut.ee/sites/default/files/ulikooli_hoone_0_0.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
-<span style="align: left;">
+<div style="text-align: left;">
 Tere, mis su nimi on?<br>
 -Tere, minu nimi on ________. Ja sinu?<br>
 Mina olen ______. Kas sa õpid ülikoolis?<br>
@@ -110,25 +110,25 @@ Viljandi Kultuuriakadeemia
 <img alt="VKA" src="https://s.err.ee/photo/crop/2016/03/22/241834h6038t28.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
 @snap[north-west ]
-Eesti Muusika ja Teatriakadeemia
+<span style="background: white; padding: 0 .5rem;">Eesti Muusika ja Teatriakadeemia</span>
 @snapend
 <!-- ![EMTA](http://new.ema.edu.ee/wp-content/uploads/2015/01/Vali-014.jpg) -->
 <img alt="EMTA" src="http://new.ema.edu.ee/wp-content/uploads/2015/01/Vali-014.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
 @snap[north-west ]
-Tallinna Ülikool
+<span style="background: white; padding: 0 .5rem;">Tallinna Ülikool</span>
 @snapend
 <!-- ![TLU](https://f11.pmo.ee/akl8XsQHVqkgbaZi4Tc2HHBoV-s=/685x410/smart/nginx/o/2010/10/27/455601t1h84c1.jpg) -->
 <img alt="TLU" src="https://f11.pmo.ee/akl8XsQHVqkgbaZi4Tc2HHBoV-s=/685x410/smart/nginx/o/2010/10/27/455601t1h84c1.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
 @snap[north-west ]
-Tallinna Tehnikaülikool
+<span style="background: white; padding: 0 .5rem;">Tallinna Tehnikaülikool</span>
 @snapend
 <!-- ![TTU](https://kandideeri.ee/files/pictures/TT%C3%9C.jpg) -->
 <img alt="TTU" src="https://kandideeri.ee/files/pictures/TT%C3%9C.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
 @snap[north-west ]
-Robotex
+<span style="background: white; padding: 0 .5rem;">Robotex</span>
 @snapend
 <!-- ![Robotex](https://robotex.international/wp-content/uploads/2018/06/what-is-robotex.jpg) -->
 <img alt="Robotex" src="https://robotex.international/wp-content/uploads/2018/06/what-is-robotex.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
@@ -145,7 +145,7 @@ Robotex
 @css[title-top-left](Leib)
 <img alt="leib" src="https://2.bp.blogspot.com/-hR7767QhR3U/V-jCbAqCTwI/AAAAAAAATHc/9-ImxHH7esAH139F3VNw4UvPe25lUJ5sgCLcB/s1600/DSC01239.jpg" style="width: 50%; border: none; background: none; box-shadow: none;" />
 ---
-# Kama
+
 @css[title-top-left](Kama)
 <img alt="kama" src="https://p.ocdn.ee/17/i/2015/7/23/cc5mvqzl.ycf.jpg" style="width: 50%; border: none; background: none; box-shadow: none;" />
 
