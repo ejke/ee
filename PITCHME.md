@@ -52,7 +52,9 @@
 
 ---
 digiretsept est. 2010<br>
+<br>
 e-hääletamine est. 2005<br>
+<br>
 e-tuludeklaratsioon est. 1999. 2009 online 90%
 
 ---
@@ -64,18 +66,15 @@ e-tuludeklaratsioon est. 1999. 2009 online 90%
 @snap[north-west ]
 Lasteaed
 @snapend
-@css[title-top-left](Lasteaed)
 <img alt="Lasteaed" src="http://www.lamesimumm.ee/media/Lasteaed%20Mesimumm%20011.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
-<!-- <img alt="" src="" style="width: 100%; border: none; background: none; box-shadow: none;" /> -->
+
 ---
-<!-- ![Lasteaed](https://upload.wikimedia.org/wikipedia/commons/7/7d/Tallinna_Meelespea_Lasteaed.JPG) -->
 <img alt="Lasteaed" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Tallinna_Meelespea_Lasteaed.JPG" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
 @snap[north-west ]
 Kool
 @snapend
-@css[title-top-left](Kool)
-<!-- ![Kool](https://www.riigigymnaasiumid.ee/files/news/1587493912520197548361603548885160719500208o.jpg) -->
+
 <img alt="Kool" src="https://www.riigigymnaasiumid.ee/files/news/1587493912520197548361603548885160719500208o.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
 Algkool (1-4. klass)<br>
@@ -85,10 +84,9 @@ Keskkool aka Gümnaasium (10-12. klass)
 @snap[north-west ]
 Ülikool
 @snapend
-@css[title-top-left](Ülikool)
-<!-- ![Ülikool](https://www.ut.ee/sites/default/files/ulikooli_hoone_0_0.jpg) -->
 <img alt="Ülikool" src="https://www.ut.ee/sites/default/files/ulikooli_hoone_0_0.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
+<span style="align: left;">
 Tere, mis su nimi on?<br>
 -Tere, minu nimi on ________. Ja sinu?<br>
 Mina olen ______. Kas sa õpid ülikoolis?<br>
@@ -98,6 +96,7 @@ Ma käin ülikoolis.<br>
 Mina õpin Tallinna ülikoolis. Mis su eriala on?<br>
 -Mina õpin arstiks. Mida sina õpid?<br>
 Minu eriala on ajalugu.<br>
+</span>
 ---
 
 Etteütlus
