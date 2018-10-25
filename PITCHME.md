@@ -74,7 +74,6 @@ e-tuludeklaratsioon est. 1999. 2009 online 90%
 @snap[north-west ]
 <span style="background: white; padding: 0 .5rem;">Kool</span>
 @snapend
-
 <img alt="Kool" src="https://www.riigigymnaasiumid.ee/files/news/1587493912520197548361603548885160719500208o.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
 Algkool (1-4. klass)<br>
