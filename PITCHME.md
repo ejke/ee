@@ -64,7 +64,7 @@ e-tuludeklaratsioon est. 1999. 2009 online 90%
 
 ---
 @snap[north-west ]
-Lasteaed
+<span style="background: white; padding: 0 .5rem;">Lasteaed</span>
 @snapend
 <img alt="Lasteaed" src="http://www.lamesimumm.ee/media/Lasteaed%20Mesimumm%20011.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 
@@ -135,8 +135,7 @@ Robotex
 
 
 ---
-background: white;
-    padding: 0 .5rem;
+
 
 ---
 # Toit
@@ -148,11 +147,11 @@ background: white;
 ---
 # Kama
 @css[title-top-left](Kama)
-<img alt="kama" src="https://2.bp.blogspot.com/-hR7767QhR3U/V-jCbAqCTwI/AAAAAAAATHc/9-ImxHH7esAH139F3VNw4UvPe25lUJ5sgCLcB/s1600/DSC01239.jpg" style="width: 50%; border: none; background: none; box-shadow: none;" />
+<img alt="kama" src="https://p.ocdn.ee/17/i/2015/7/23/cc5mvqzl.ycf.jpg" style="width: 50%; border: none; background: none; box-shadow: none;" />
 
 ---
 @css[title-top-left](Kama)
-<img alt="kama" src="https://p.ocdn.ee/17/i/2015/7/23/cc5mvqzl.ycf.jpg" style="width: 50%; border: none; background: none; box-shadow: none;" />
+<img alt="kama" src="http://tartumill.ee/tm/wp-content/uploads/2014/08/New-Picture-4-300x360.png" style="width: 50%; border: none; background: none; box-shadow: none;" />
 
 ---
 
