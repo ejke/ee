@@ -135,7 +135,8 @@ Robotex
 
 
 ---
-
+background: white;
+    padding: 0 .5rem;
 
 ---
 # Toit
