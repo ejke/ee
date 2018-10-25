@@ -61,72 +61,78 @@ e-tuludeklaratsioon est. 1999. 2009 online 90%
 # Haridus
 
 ---
-@snap[north-west fragment]
+@snap[north-west ]
 Lasteaed
 @snapend
-
-![Lasteaed](http://www.lamesimumm.ee/media/Lasteaed%20Mesimumm%20011.jpg)
+@css[title-top-left](Lasteaed)
+<img alt="Lasteaed" src="http://www.lamesimumm.ee/media/Lasteaed%20Mesimumm%20011.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
+<!-- <img alt="" src="" style="width: 100%; border: none; background: none; box-shadow: none;" /> -->
 ---
-![Lasteaed](https://upload.wikimedia.org/wikipedia/commons/7/7d/Tallinna_Meelespea_Lasteaed.JPG)
-
+<!-- ![Lasteaed](https://upload.wikimedia.org/wikipedia/commons/7/7d/Tallinna_Meelespea_Lasteaed.JPG) -->
+<img alt="Lasteaed" src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Tallinna_Meelespea_Lasteaed.JPG" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
-@snap[north-west fragment]
+@snap[north-west ]
 Kool
 @snapend
-
-![Kool](https://www.riigigymnaasiumid.ee/files/news/1587493912520197548361603548885160719500208o.jpg)
-
+@css[title-top-left](Kool)
+<!-- ![Kool](https://www.riigigymnaasiumid.ee/files/news/1587493912520197548361603548885160719500208o.jpg) -->
+<img alt="Kool" src="https://www.riigigymnaasiumid.ee/files/news/1587493912520197548361603548885160719500208o.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
-Algkool (1-4. klass)
-Põhikool (5-9. klass)
+Algkool (1-4. klass)<br>
+Põhikool (5-9. klass)<br>
 Keskkool aka Gümnaasium (10-12. klass)
 ---
-@snap[north-west fragment]
+@snap[north-west ]
 Ülikool
 @snapend
-
-![Ülikool](https://www.ut.ee/sites/default/files/ulikooli_hoone_0_0.jpg)
-
+@css[title-top-left](Ülikool)
+<!-- ![Ülikool](https://www.ut.ee/sites/default/files/ulikooli_hoone_0_0.jpg) -->
+<img alt="Ülikool" src="https://www.ut.ee/sites/default/files/ulikooli_hoone_0_0.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
-Tere, mis su nimi on?
--Tere, minu nimi on ________. Ja sinu?
-Mina olen ______. Kas sa õpid ülikoolis?
--Jah, ma õpin Tartu ülikoolis. Kas sina käid koolis või ülikoolis?
-Ma käin ülikoolis.
--Mis ülikoolis sa õpid?
-Mina õpin Tallinna ülikoolis. Mis su eriala on?
--Mina õpin arstiks. Mida sina õpid?
-Minu eriala on ajalugu.
+Tere, mis su nimi on?<br>
+-Tere, minu nimi on ________. Ja sinu?<br>
+Mina olen ______. Kas sa õpid ülikoolis?<br>
+-Jah, ma õpin Tartu ülikoolis. Kas sina käid koolis või ülikoolis?<br>
+Ma käin ülikoolis.<br>
+-Mis ülikoolis sa õpid?<br>
+Mina õpin Tallinna ülikoolis. Mis su eriala on?<br>
+-Mina õpin arstiks. Mida sina õpid?<br>
+Minu eriala on ajalugu.<br>
 ---
 
 Etteütlus
 ---
 Tartu ülikool on Eesti vanim ülikool. See on asutatud 1632. aastal Rootsi kuninga Gustav II Adolfi poolt. Tartu ülikoolil on filiaalid Tallinnas, Narvas, Viljandis ja Pärnus. Viljandis saab õppida näiteks teatrit ja pärimusmuusikat. Viimast saab õppida ka Tallinnas asuvas Eesti Muusika- ja Teatriakadeemias. Lisaks on Tallinnas veel Tallinna ülikool ja Tallinna Tehnikaülikool. Tehnikaülikoolis toimub Robotex, maailma suurim robootikafestival.
 ---
-@snap[north-west fragment]
+@snap[north-west ]
 Viljandi Kultuuriakadeemia
 @snapend
-![VKA](https://s.err.ee/photo/crop/2016/03/22/241834h6038t28.jpg)
+<!-- ![VKA](https://s.err.ee/photo/crop/2016/03/22/241834h6038t28.jpg) -->
+<img alt="VKA" src="https://s.err.ee/photo/crop/2016/03/22/241834h6038t28.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
-@snap[north-west fragment]
+@snap[north-west ]
 Eesti Muusika ja Teatriakadeemia
 @snapend
-![EMTA](http://new.ema.edu.ee/wp-content/uploads/2015/01/Vali-014.jpg)
+<!-- ![EMTA](http://new.ema.edu.ee/wp-content/uploads/2015/01/Vali-014.jpg) -->
+<img alt="EMTA" src="http://new.ema.edu.ee/wp-content/uploads/2015/01/Vali-014.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
-@snap[north-west fragment]
+@snap[north-west ]
 Tallinna Ülikool
 @snapend
-![TLU](https://f11.pmo.ee/akl8XsQHVqkgbaZi4Tc2HHBoV-s=/685x410/smart/nginx/o/2010/10/27/455601t1h84c1.jpg)
+<!-- ![TLU](https://f11.pmo.ee/akl8XsQHVqkgbaZi4Tc2HHBoV-s=/685x410/smart/nginx/o/2010/10/27/455601t1h84c1.jpg) -->
+<img alt="TLU" src="https://f11.pmo.ee/akl8XsQHVqkgbaZi4Tc2HHBoV-s=/685x410/smart/nginx/o/2010/10/27/455601t1h84c1.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
-@snap[north-west fragment]
+@snap[north-west ]
 Tallinna Tehnikaülikool
 @snapend
-![TTU](https://kandideeri.ee/files/pictures/TT%C3%9C.jpg)
+<!-- ![TTU](https://kandideeri.ee/files/pictures/TT%C3%9C.jpg) -->
+<img alt="TTU" src="https://kandideeri.ee/files/pictures/TT%C3%9C.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
-@snap[north-west fragment]
+@snap[north-west ]
 Robotex
 @snapend
-![Robotex](https://robotex.international/wp-content/uploads/2018/06/what-is-robotex.jpg)
+<!-- ![Robotex](https://robotex.international/wp-content/uploads/2018/06/what-is-robotex.jpg) -->
+<img alt="Robotex" src="https://robotex.international/wp-content/uploads/2018/06/what-is-robotex.jpg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 
 
 ---
