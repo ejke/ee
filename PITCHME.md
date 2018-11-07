@@ -1,6 +1,7 @@
 # Elualad
 
-@fa[level-up]
+@fa[level-up rotate-left]
+@fa[level-up fa-4x]
 @fa[thumbs-up](Sounds good to me!)
 @fa[umbrella fa-lg]
 @fa[umbrella fa-5x]
