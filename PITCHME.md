@@ -1,6 +1,6 @@
 # Elualad
 
-@fa[code-fork]
+@fa[level-up]
 @fa[thumbs-up](Sounds good to me!)
 @fa[umbrella fa-lg]
 @fa[umbrella fa-5x]
