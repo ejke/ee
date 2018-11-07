@@ -1,5 +1,10 @@
 # Elualad
 
+@fa[code-fork]
+@fa[thumbs-up](Sounds good to me!)
+@fa[umbrella fa-lg]
+@fa[umbrella fa-5x]
+
 ---
 <div style="text-align: left; font-size: 2rem">
 <span style="color:#404040">Tere, kuidas läheb?</span><br>
@@ -8,8 +13,8 @@
 <span style="color:#001a00">- See ongi probleem - ema tahab et ma läheks arstiks või õeks, isa tahab, et minust saaks jurist.</span><br>
 <span style="color:#404040">Aga kelleks sa ise tahad saada? Arstiks või juristiks?</span><br>
 <span style="color:#001a00">- Mitte kummakski! Tore oleks olla näitleja või muusik.</span><br>
-<span style="color:#404040">Tore oleks. Muidugi oleks tore! Ma mõtlesin ka, et hakkaks poliitikuks või turvameheks, aga ei saanud bussijuhikski. Sain hoopis taksojuhiks, ja poole kohaga psühholoogiks.</span><br>
-<span style="color:#001a00">- Poole kohaga psühholoogiks?</span><br>
+<span style="color:#404040">Tore oleks. Muidugi oleks tore! Ma mõtlesin ka, et hakkaks poliitikuks või turvameheks, aga ei saanud bussijuhikski. Sain hoopis taksojuhiks, ja vabatahtlikuks psühholoogiks.</span><br>
+<span style="color:#001a00">- Vabatahtlikuks psühholoogiks?</span><br>
 <span style="color:#404040">Nojah, ega keegi mulle sinu kuulamise eest ei maksa ju. </span><br>
 <span style="color:#001a00">- Ega vist. Suur aitäh sõidu eest!</span><br>
 </div>
@@ -57,6 +62,8 @@ pööra vasakule<br>
 mine/kõnni otse<br>
 
 sõida
+
+ümber
 
 ---
 
