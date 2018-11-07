@@ -52,15 +52,16 @@ Congratulations, you learned a vowel!
 # Teejuhatus
 
 ---
-@fa[level-up rotate-left]
+@fa[level-down rotate-left]
 pööra paremale<br>
 
-@fa[level-down rotate-left]
+@fa[level-up rotate-left]
 pööra vasakule<br>
 
 @fa[long-arrow-up]
 mine/kõnni otse<br>
 
+@fa[car-side]
 sõida
 
 ümber
