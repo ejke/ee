@@ -1,7 +1,7 @@
 # Elualad
 
 ---
-<div style="text-align: left;">
+<div style="text-align: left; font-size: 2rem">
 <span style="color:#404040">Tere, kuidas läheb?</span><br>
 <span style="color:#001a00">- Mitte nii hästi... ma ei tea kelleks saada!</span><br>
 <span style="color:#404040">Mis sa sellega mõtled? Saa kelleks tahes, võimalusi on!</span><br>
@@ -33,12 +33,10 @@ a cross between ö and the long o
 
 ---
 
-@css[title-top-right](Õ)
 ![E-res video](https://www.youtube.com/embed/8U9v88nzCB8)
 
 ---
 <img alt="Õ example" src="https://external-preview.redd.it/CpiQkLKGY5yldJoA2xP-cL4IGTWcbfZOLILBTi1Q9HA.jpg?width=567&auto=webp&s=8994997c004226aab2d30fc01bf259b9ed147354" style="width: 100%; border: none; background: none; box-shadow: none;" />
----
 ---
 
 Say "eeeeee".
@@ -54,9 +52,9 @@ Congratulations, you learned a vowel!
 # Teejuhatus
 
 ---
-pööra paremale
-pööra vasakule
-mine/kõnni otse
+pööra paremale<br>
+pööra vasakule<br>
+mine/kõnni otse<br>
 
 sõida
 
@@ -67,7 +65,8 @@ sõida
 
 ---
 Kilplaste maja
-
+<div style="text-align: left; font-size: 2rem">
 Kilplased ehitasid maja, kuid unustasid aknad tegemata. Kuidas majasse valgust saada? Mõeldi kaua, peeti pikalt aru, vaieldi ja tülitseti. Viimaks aga leiti hea nõu. Tühi kott asetati õuele, seoti siis kotisuu ruttu kinni ja viidi kott tuppa. Seal see avati, aga tuba valgemaks ei muutunud.
 
 Jällegi peeti nõu ning lõpuks otsustati seina auk raiuda. Raiutigi pragu, millest valgust tuppa voolas. Kilplased olid nii rõõmsad, et lõhkusid seina veel mitu avaust. Valgust tuli küll rohkem, aga hoone ise vajus raginal kokku.
+</div>
