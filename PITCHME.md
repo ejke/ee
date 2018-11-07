@@ -1,11 +1,5 @@
 # Elualad
 
-@fa[level-up rotate-left]
-@fa[level-up fa-4x]
-
-<p class="rotate-left">test</p>
-
-
 ---
 <div style="text-align: left; font-size: 2rem">
 <span style="color:#404040">Tere, kuidas läheb?</span><br>
@@ -58,8 +52,13 @@ Congratulations, you learned a vowel!
 # Teejuhatus
 
 ---
+@fa[level-up rotate-left]
 pööra paremale<br>
+
+@fa[level-down rotate-left]
 pööra vasakule<br>
+
+@fa[long-arrow-up]
 mine/kõnni otse<br>
 
 sõida
