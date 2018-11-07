@@ -2,12 +2,9 @@
 
 @fa[level-up rotate-left]
 @fa[level-up fa-4x]
-@fa[thumbs-up](Sounds good to me!)
 
 <p class="rotate-left">test</p>
 
-@fa[umbrella fa-lg]
-@fa[umbrella fa-5x]
 
 ---
 <div style="text-align: left; font-size: 2rem">
@@ -70,6 +67,7 @@ sõida
 ümber
 
 ---
+https://www.google.com/maps/dir/Glasgow+Central+Station/Buchanan+Street,+Glasgow+G1+2LL/@55.8612495,-4.2559644,18.2z/data=!4m14!4m13!1m5!1m1!1s0x4888469dd79d903b:0xef65bf326caa4a56!2m2!1d-4.2581088!2d55.8591118!1m5!1m1!1s0x4888469fe02d9dc3:0x47ddb1e66956dff8!2m2!1d-4.2533833!2d55.8623903!3e2
 
 ---
 # Etteütlus
