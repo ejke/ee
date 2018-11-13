@@ -16,7 +16,7 @@ Aga midagi muud?
 
 Ehk siiski yks pits veel?
 
-Ma ytlesin, <u>ei ole</u> vaja! Ma ei taha mitte midagi!
+Ma ytlesin, <u>ei ole</u> vaja! Ma <u>ei</u> taha <u>mitte midagi</u>!
 ---
 
 Ei
@@ -27,6 +27,8 @@ pole
 mitte
 
 ---
+
+
 
 
 //perekond siin
