@@ -8,27 +8,28 @@ Saying No.
 ---
 Kas sa tahad veel yht klaasi veini?
 
-Ei taha.
+<u>Ei</u> taha.
 
 Aga midagi muud?
 
 <u>Pole</u> vaja.
 
+Ehk siiski yks pits veel?
+
+Ma ytlesin, <u>ei ole</u> vaja! Ma ei taha mitte midagi!
 ---
 
+Ei
 
-
-
+ei ole<br>
+pole
 
 mitte
 
-ei ole
-pole
+---
 
 
-
-
-
+//perekond siin
 ---
 
 # Etteütlus
