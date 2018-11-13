@@ -3,7 +3,22 @@
 Saying No.
 
 ---
-Ei
+## Ei!
+
+---
+Kas sa tahad veel yht klaasi veini?
+
+Ei taha.
+
+Aga midagi muud?
+
+<u>Pole</u> vaja.
+
+---
+
+
+
+
 
 mitte
 
