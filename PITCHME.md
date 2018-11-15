@@ -36,7 +36,7 @@ Pööra lauset "Ma söön kooki" kõikides pööretes nii jaatavas kui eitavas k
 ---
 ### Olevik
 
-<div style="width: 45%; text-align:left;float:left;">
+<div style="width: 50%; text-align:left;float:left;">
 JAATAV KÕNE<br>
 Ma söön kooki<br>
 Sa sööd kooki<br>
@@ -46,7 +46,7 @@ Te sööte kooki<br>
 Nad söövad kooki<br>
 </div>
 
-<div style="width: 45%; text-align:left;float:left;">
+<div style="width: 40%; text-align:left;float:left;">
 EITAV KÕNE<br>
 Ma ei söö kooki<br>
 Sa ei söö kooki<br>
@@ -63,7 +63,7 @@ Pööra lauset "Ma pingutasin kõvasti" kõikides pööretes nii jaatavas kui ei
 ---
 
 ### Minevik
-<div style="width: 45%; text-align:left;float:left;">
+<div style="width: 50%; text-align:left;float:left;">
 JAATAV KÕNE<br>
 Ma pingutasin kõvasti<br>
 Sa pingutasid kõvasti<br>
@@ -73,7 +73,7 @@ Te pingutasite kõvasti<br>
 Nad pingutasid kõvasti<br>
  </div>
  
-<div style="width: 45%; text-align:left;float:left;">
+<div style="width: 50%; text-align:left;float:left;">
 EITAV KÕNE<br>
 Ma ei pingutanud kõvasti<br>
 Sa ei pingutanud kõvasti<br>
