@@ -6,6 +6,7 @@ Saying No.
 ## Ei!
 
 ---
+<div style="text-align:left;float:left;">
 Kas sa tahad veel yht klaasi veini?
 
 <u>Ei</u> taha.
@@ -17,7 +18,7 @@ Aga midagi muud?
 Ehk siiski yks pits veel?
 
 Ma ytlesin, <u>ei ole</u> vaja! Ma <u>ei</u> taha <u>mitte midagi</u>!
-
+</div>
 ---
 
 on<br>
@@ -92,6 +93,7 @@ Naine -  Mees
 
 Tüdruk - Poiss
 
+---
 
 # Perekond
 
@@ -118,6 +120,7 @@ vend
 pojapoeg
 
 lapselaps
+
 ---
 
 
