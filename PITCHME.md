@@ -36,21 +36,25 @@ Pööra lauset "Ma söön kooki" kõikides pööretes nii jaatavas kui eitavas k
 ---
 ### Olevik
 
-JAATAV KÕNE
-Ma söön kooki
-Sa sööd kooki
-Ta sööb kooki
-Me sööme kooki
-Te sööte kooki
-Nad söövad kooki
+<div style="width: 45%; text-align:left;float:left;">
+JAATAV KÕNE<br>
+Ma söön kooki<br>
+Sa sööd kooki<br>
+Ta sööb kooki<br>
+Me sööme kooki<br>
+Te sööte kooki<br>
+Nad söövad kooki<br>
+</div>
 
-EITAV KÕNE
-Ma ei söö kooki
-Sa ei söö kooki
-Ta ei söö kooki
-Me ei söö kooki
-Te ei söö kooki
-Nad ei söö kooki
+<div style="width: 45%; text-align:left;float:left;">
+EITAV KÕNE<br>
+Ma ei söö kooki<br>
+Sa ei söö kooki<br>
+Ta ei söö kooki<br>
+Me ei söö kooki<br>
+Te ei söö kooki<br>
+Nad ei söö kooki<br>
+</div>
 
 ---
 
@@ -60,23 +64,23 @@ Pööra lauset "Ma pingutasin kõvasti" kõikides pööretes nii jaatavas kui ei
 
 ### Minevik
 <div style="width: 45%; text-align:left;float:left;">
-JAATAV KÕNE
-Ma pingutasin kõvasti
-Sa pingutasid kõvasti
-Ta pingutas kõvasti
-Me pingutasime kõvasti
-Te pingutasite kõvasti
-Nad pingutasid kõvasti
+JAATAV KÕNE<br>
+Ma pingutasin kõvasti<br>
+Sa pingutasid kõvasti<br>
+Ta pingutas kõvasti<br>
+Me pingutasime kõvasti<br>
+Te pingutasite kõvasti<br>
+Nad pingutasid kõvasti<br>
  </div>
  
 <div style="width: 45%; text-align:left;float:left;">
-EITAV KÕNE
-Ma ei pingutanud kõvasti
-Sa ei pingutanud kõvasti
-Ta ei pingutanud kõvasti
-Me ei pingutanud kõvasti
-Te ei pingutanud kõvasti
-Nad ei pingutanud kõvasti
+EITAV KÕNE<br>
+Ma ei pingutanud kõvasti<br>
+Sa ei pingutanud kõvasti<br>
+Ta ei pingutanud kõvasti<br>
+Me ei pingutanud kõvasti<br>
+Te ei pingutanud kõvasti<br>
+Nad ei pingutanud kõvasti<br>
 </div>
 ---
 
