@@ -9,6 +9,7 @@ Aprill
 Mai  
 Juuni  
 </div>
+
 <div style="text-align: left: float: left; width: 50%;">
 Juuli  
 August  
@@ -20,11 +21,7 @@ Detsember
 
 ---
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](https://...Ocean.png)  |  ![](https://...Dark.png)
 
----
 1. esimene
 2. teine
 3. kolmas
@@ -112,3 +109,16 @@ kolmveerand
 @snap[east process fragment]
 veerand
 @snapend
+
+
+
+
+---
+
+---
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Ocean.png)  |  ![](https://...Dark.png)
+
+---
