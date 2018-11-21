@@ -2,8 +2,8 @@
 
 ---
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
+Jaanuar             |  Juuli
+<!-- :-------------------------:|:-------------------------: -->
 ![](https://...Ocean.png)  |  ![](https://...Dark.png)
 
 Jaanuar             |  Juuli  
