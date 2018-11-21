@@ -41,13 +41,6 @@ Detsember
 <span>30. kolmekümne esimene</span>
 </div>
 
----
-![The first father][First Father]
-
-![The second first father][Second Father]
-
-[First Father]: http://octodex.github.com/images/founding-father.jpg
-[Second Father]: http://octodex.github.com/images/foundingfather_v2.png
 
 ---
 
@@ -122,6 +115,7 @@ veerand
 
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![](https://...Ocean.png)  |  ![](https://...Dark.png)
+![The first father][First Father]  |  ![The second first father][Second Father]
 
----
+[First Father]: http://octodex.github.com/images/founding-father.jpg
+[Second Father]: http://octodex.github.com/images/foundingfather_v2.png
