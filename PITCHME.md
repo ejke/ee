@@ -95,9 +95,9 @@ Eesti Vabariigi sünnipäev on 24.veebruaril.<br>
 
 Emakeelepäev on 14.märtsil.<br>
 
-1.juuni on Lastekaitsepäev.<br>
+1.juuni on lastekaitsepäev.<br>
 
-24.juunil on Jaanipäev.<br>
+24.juunil on jaanipäev.<br>
 </div>
 
 ---
