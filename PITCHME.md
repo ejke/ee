@@ -14,6 +14,12 @@ Detsember
 
 ---
 
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Ocean.png)  |  ![](https://...Dark.png)
+
+---
+
 1. esimene
 2. teine
 3. kolmas
