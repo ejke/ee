@@ -21,6 +21,11 @@ Detsember
 
 ---
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 1. esimene  
 2. teine  
 3. kolmas  
