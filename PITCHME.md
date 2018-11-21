@@ -19,14 +19,13 @@ Solarized dark             |  Solarized Ocean
 ![](https://...Ocean.png)  |  ![](https://...Dark.png)
 
 ---
-1. esimene 
+1. esimene
 2. teine
 3. kolmas
 4. neljas
 5. viies
 6. kuues
 7. seitsmes
-
 
 9. üheksas
 10. kümnes
@@ -35,6 +34,14 @@ Solarized dark             |  Solarized Ocean
 22. kahekümne teine
 30. kolmekümnes
 30. kolmekümne esimene
+
+---
+![The first father][First Father]
+
+![The second first father][Second Father]
+
+[First Father]: http://octodex.github.com/images/founding-father.jpg
+[Second Father]: http://octodex.github.com/images/foundingfather_v2.png
 
 ---
 
