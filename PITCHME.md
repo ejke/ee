@@ -1,52 +1,57 @@
 # Aeg
 
 ---
-<div style="text-align: left; float: left;">
+<div style="text-align: left; float: left; width: 50%;">
 <span  class="kuu"style="background-color: #cbe1ff;">
-Jaanuar  
-Veebruar  
+jaanuar  
+veebruar  
 </span>
 <span  class="kuu"style="background-color: #ffff7c;">
-Märts  
-Aprill  
-Mai  
+märts  
+aprill  
+mai  
 </span>
 <span  class="kuu"style="background-color: #ff9e9e;">
-Juuni  
+juuni  
 </span>  
 </div>
 
-<div style="text-align: left; float: left;">
+<div style="text-align: left; float: left; width: 50%;">
 <span class="kuu" style="background-color: #ff9e9e;">
-Juuli  
-August  
+juuli  
+august  
 </span>
 <span class="kuu" style="background-color: #bbffbb;">
-September  
-Oktoober  
-November  
+september  
+oktoober  
+november  
 </span>
 <span class="kuu" style="background-color: #cbe1ff;">
-Detsember
+detsember
 </span>
 </div>
 
 ---
 <span  class="aastaaeg"style="background-color: #cbe1ff;">
-Talv  
+talv  
 </span>
 
 <span  class="aastaaeg"style="background-color: #ffff7c;">
-Kevad  
+kevad  
 </span>
 
 <span class="aastaaeg" style="background-color: #ff9e9e;">
-Suvi  
+suvi  
 </span>
 
 <span class="aastaaeg" style="background-color: #bbffbb;">
-Sügis  
+sügis  
 </span>
+
+---
+Nimi - kirjutatakse alati suure tähega. Nt Miisu ja Muri, Kaval-Ants, Vanapagan, Juhan, Suur Tõll
+
+Nimetus kirjutatakse väiksede tähega. Nt esmaspäev, jõulud, mai, emadepäev
 
 ---
 
@@ -78,7 +83,7 @@ Täna on 22.november. <br>
 
 Esimene advent on ...<br>
 
-Jõululaupäev on ...<br>
+... on jõululaupäev.<br>
 
 Vanaaasta-õhtu on ...<br>
 
@@ -97,19 +102,19 @@ Emakeelepäev on 14.märtsil.<br>
 
 ---
 
-Esmaspäev
+esmaspäev
 
-Teisipäev
+teisipäev
 
-Kolmapäev
+kolmapäev
 
-Neljapäev
+neljapäev
 
-Reede
+reede
 
-Laupäev
+laupäev
 
-Pühapäev
+pühapäev
 
 ---
 
