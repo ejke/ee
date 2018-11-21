@@ -126,6 +126,9 @@ Mis sa laupäeval teed?
 
 Mitte midagi, laupäeval ma magan.
 
+---
+
+![Filled calender to practice](http://justagirlandherblog.com/wp-content/uploads/2013/12/Calendar-Close.jpg)
 
 ---
 #### Kell on ...
