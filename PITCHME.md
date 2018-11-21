@@ -6,8 +6,8 @@
 Veebruar</span>  
 <span style="background-color: yellow;">Märts  
 Aprill  
-Mai  </span>
-<span style="background-color: red;">Juuni</span>
+Mai</span>  
+<span style="background-color: red;">Juuni</span>  
 </div>
 
 <div style="text-align: left; float: left; width: 50%;">
