@@ -32,7 +32,23 @@ Detsember
 </div>
 
 ---
+<span  class="kuu"style="background-color: #cbe1ff;">
+Talv  
+</span>
 
+<span  class="kuu"style="background-color: #ffff7c;">
+Kevad  
+</span>
+
+<span class="kuu" style="background-color: #ff9e9e;">
+Suvi  
+</span>
+
+<span class="kuu" style="background-color: #bbffbb;">
+Sügis  
+</span>
+
+---
 
 <div style="text-align: left; float: left; width: 50%;">
 <span>1. esimene  </span><br>
@@ -76,7 +92,7 @@ Emakeelepäev on 14.märtsil.<br>
 
 1.juuni on Lastekaitsepäev.<br>
 
-24.juunil on Jaanipäev<br>
+24.juunil on Jaanipäev.<br>
 </div>
 
 ---
@@ -107,9 +123,9 @@ Mitte midagi, laupäeval ma magan.
 
 
 ---
-#### Kell on ... | Kell on pool seitse  
+#### Kell on ...
 
-<img alt="Kell" src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fll-us-i5.wal.co%2Fasr%2F2f10e09c-a676-465b-92a9-bdf0f1c7221e_1.aca3f7afc69e0aa13cc8996fee833245.jpeg-1c40199e0c62260cd7359d6239220f62e2241194-optim-2000x2000.jpg&f=1" style="width: 42%; border: none; background: none; box-shadow: none;" />
+<img alt="Kell" src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fll-us-i5.wal.co%2Fasr%2F2f10e09c-a676-465b-92a9-bdf0f1c7221e_1.aca3f7afc69e0aa13cc8996fee833245.jpeg-1c40199e0c62260cd7359d6239220f62e2241194-optim-2000x2000.jpg&f=1" style="width: 45%; border: none; background: none; box-shadow: none;" />
 
 @snap[east]
 veerand
