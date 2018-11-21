@@ -47,25 +47,25 @@ Detsember
 
 ---
 <div style="font-size: 1rem;">
-Täna on 22.november.
+Täna on 22.november. <br>
 
-Esimene advent on ...
+Esimene advent on ...<br>
 
-Jõululaupäev on ...
+Jõululaupäev on ...<br>
 
-Vanaaasta-õhtu on ...
+Vanaaasta-õhtu on ...<br>
 
- ... on uusaasta.
+ ... on uusaasta.<br>
 
-Minu sünnipäev on ...
+Minu sünnipäev on ...<br>
 
-Eesti Vabariigi sünnipäev on 24.veebruaril.
+Eesti Vabariigi sünnipäev on 24.veebruaril.<br>
 
-Emakeelepäev on 14.märtsil.
+Emakeelepäev on 14.märtsil.<br>
 
-1.juuni on Lastekaitsepäev.
+1.juuni on Lastekaitsepäev.<br>
 
-24.juunil on Jaanipäev
+24.juunil on Jaanipäev<br>
 </div>
 
 ---
