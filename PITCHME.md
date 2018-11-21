@@ -2,15 +2,9 @@
 
 ---
 
-Jaanuar
+Jaanuar  Veebruar
 
-Veebruar
-
-Märts
-
-Aprill
-
-Mai
+Märts  Aprill  Mai
 
 Juuni
 
