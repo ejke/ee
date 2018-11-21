@@ -21,15 +21,13 @@ Detsember
 
 ---
 
-<div style="text-align: left; float: left; width: 50%;">
-1. esimene
-2. teine
-3. kolmas
-4. neljas
-5. viies
-6. kuues
+1. esimene  
+2. teine  
+3. kolmas  
+4. neljas  
+5. viies  
+6. kuues  
 7. seitsmes
-</div>
 
 <div style="text-align: left; float: left; width: 50%;">
 <span>9. üheksas</span>
