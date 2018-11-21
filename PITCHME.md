@@ -32,19 +32,19 @@ Detsember
 </div>
 
 ---
-<span  class="kuu"style="background-color: #cbe1ff;">
+<span  class="aastaaeg"style="background-color: #cbe1ff;">
 Talv  
 </span>
 
-<span  class="kuu"style="background-color: #ffff7c;">
+<span  class="aastaaeg"style="background-color: #ffff7c;">
 Kevad  
 </span>
 
-<span class="kuu" style="background-color: #ff9e9e;">
+<span class="aastaaeg" style="background-color: #ff9e9e;">
 Suvi  
 </span>
 
-<span class="kuu" style="background-color: #bbffbb;">
+<span class="aastaaeg" style="background-color: #bbffbb;">
 Sügis  
 </span>
 
