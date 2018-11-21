@@ -44,7 +44,7 @@ Detsember
 
 
 ---
-<div style="font-size: 1rem;">
+<div style="font-size: 2rem; text-align: left;">
 Täna on 22.november. <br>
 
 Esimene advent on ...<br>
