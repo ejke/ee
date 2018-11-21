@@ -51,7 +51,7 @@ sügis
 ---
 Nimi - kirjutatakse alati suure tähega. Nt Miisu ja Muri, Kaval-Ants, Vanapagan, Juhan, Suur Tõll
 
-Nimetus kirjutatakse väiksede tähega. Nt esmaspäev, jõulud, mai, emadepäev
+Nimetus kirjutatakse väikese tähega. Nt esmaspäev, jõulud, mai, emadepäev
 
 ---
 
