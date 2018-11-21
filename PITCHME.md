@@ -99,11 +99,11 @@ Pühapäev
 
 Mis päev täna on?
 
-- Täna on neljapäev.
+Täna on neljapäev.
 
 Mis sa laupäeval teed?
 
-- Mitte midagi, laupäeval ma magan.
+Mitte midagi, laupäeval ma magan.
 
 
 ---
