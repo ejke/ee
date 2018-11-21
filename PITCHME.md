@@ -103,7 +103,7 @@ Mis päev täna on?
 
 Mis sa laupäeval teed?
 
-;;;
+- Mitte midagi, laupäeval ma magan.
 
 
 ---
