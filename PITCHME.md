@@ -2,21 +2,21 @@
 
 ---
 <div style="text-align: left; float: left; width: 50%;">
-<span style="background-color: blue;">Jaanuar  
+<span style="background-color: #cbe1ff;">Jaanuar  
 Veebruar</span>  
-<span style="background-color: yellow;">Märts  
+<span style="background-color: #ffff7c;">Märts  
 Aprill  
-Mai</span>  
-<span style="background-color: red;">Juuni</span>  
+Mai</span><br>
+<span style="background-color: #ff9e9e;">Juuni</span>  
 </div>
 
 <div style="text-align: left; float: left; width: 50%;">
-<span style="background-color: red;">Juuli  
+<span style="background-color: #ff9e9e;">Juuli  
 August  </span>
-<span style="background-color: red;">September  
+<span style="background-color: green;">September  
 Oktoober  
 November  </span>
-<span style="background-color: red;">Detsember</span>
+<span style="background-color: #cbe1ff;">Detsember</span>
 </div>
 
 ---
