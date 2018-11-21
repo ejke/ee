@@ -1,25 +1,22 @@
 # Aeg
 
 ---
-
-Jaanuar             |  Juuli
-<!-- :-------------------------:|:-------------------------: -->
-![](https://...Ocean.png)  |  ![](https://...Dark.png)
-
-Jaanuar             |  Juuli  
+<div style="text-align: left: float: left; width: 50%;">
+Jaanuar  
 Veebruar  
 Märts  
 Aprill  
 Mai  
 Juuni  
-
-
+</div>
+<div style="text-align: left: float: left; width: 50%;">
 Juuli  
 August  
 September  
 Oktoober  
 November  
 Detsember
+</div>
 
 ---
 
@@ -36,7 +33,7 @@ Solarized dark             |  Solarized Ocean
 6. kuues
 7. seitsmes
 
-9 . üheksas
+9. üheksas
 10. kümnes
 11. üheteistkümnes
 20. kahekümnes
