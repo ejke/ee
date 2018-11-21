@@ -2,31 +2,31 @@
 
 ---
 <div style="text-align: left; float: left; width: 50%;">
-<span style="background-color: #cbe1ff;">
+<span  class="kuu"style="background-color: #cbe1ff;">
 Jaanuar  
 Veebruar  
 </span>
-<span style="background-color: #ffff7c;">
+<span  class="kuu"style="background-color: #ffff7c;">
 Märts  
 Aprill  
 Mai  
 </span>
-<span style="background-color: #ff9e9e;">
+<span  class="kuu"style="background-color: #ff9e9e;">
 Juuni  
 </span>  
 </div>
 
 <div style="text-align: left; float: left; width: 50%;">
-<span style="background-color: #ff9e9e;">
+<span class="kuu" style="background-color: #ff9e9e;">
 Juuli  
 August  
 </span>
-<span style="background-color: green;">
+<span class="kuu" style="background-color: #bbffbb;">
 September  
 Oktoober  
 November  
 </span>
-<span style="background-color: #cbe1ff;">
+<span class="kuu" style="background-color: #cbe1ff;">
 Detsember
 </span>
 </div>
