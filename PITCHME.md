@@ -1,7 +1,7 @@
 # Aeg
 
 ---
-<div style="text-align: left; float: left; width: 50%;">
+<div style="text-align: left; float: left;">
 <span  class="kuu"style="background-color: #cbe1ff;">
 Jaanuar  
 Veebruar  
@@ -16,7 +16,7 @@ Juuni
 </span>  
 </div>
 
-<div style="text-align: left; float: left; width: 50%;">
+<div style="text-align: left; float: left;">
 <span class="kuu" style="background-color: #ff9e9e;">
 Juuli  
 August  
