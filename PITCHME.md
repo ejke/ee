@@ -2,7 +2,11 @@
 
 ---
 
-Jaanuar  
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://...Ocean.png)  |  ![](https://...Dark.png)
+
+Jaanuar             |  Juuli  
 Veebruar  
 Märts  
 Aprill  
