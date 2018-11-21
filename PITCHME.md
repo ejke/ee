@@ -112,15 +112,17 @@ Mitte midagi, laupäeval ma magan.
 
 Kell on ... | Kell on pool seitse.  
 
-@snap[west]
-kolmveerand
-@snapend
-
 @snap[east]
 veerand
 @snapend
 
+@snap[south]
+pool
+@snapend
 
+@snap[west]
+kolmveerand
+@snapend
 
 
 ---
