@@ -19,15 +19,15 @@ Solarized dark             |  Solarized Ocean
 ![](https://...Ocean.png)  |  ![](https://...Dark.png)
 
 ---
-
-1. esimene
+1. esimene | 8. kaheksas
 2. teine
 3. kolmas
 4. neljas
 5. viies
 6. kuues
 7. seitsmes
-8. kaheksas
+
+
 9. üheksas
 10. kümnes
 11. üheteistkümnes
