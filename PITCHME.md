@@ -2,21 +2,13 @@
 
 ---
 
-Jaanuar  Veebruar
+Jaanuar       Veebruar
 
-Märts  Aprill  Mai
+Märts     Aprill      Mai
 
-Juuni
+Juuni     Juuli     August
 
-Juuli
-
-August
-
-September
-
-Oktoober
-
-November
+September     Oktoober      November
 
 Detsember
 
