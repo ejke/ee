@@ -32,7 +32,7 @@ Solarized dark             |  Solarized Ocean
 6. kuues
 7. seitsmes
 
-9. üheksas
+9 . üheksas
 10. kümnes
 11. üheteistkümnes
 20. kahekümnes
