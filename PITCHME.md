@@ -1,7 +1,7 @@
 # Aeg
 
 ---
-<div style="text-align: left: float: left; width: 50%;">
+<div style="text-align: left; float: left; width: 50%;">
 Jaanuar  
 Veebruar  
 Märts  
@@ -10,7 +10,7 @@ Mai
 Juuni  
 </div>
 
-<div style="text-align: left: float: left; width: 50%;">
+<div style="text-align: left; float: left; width: 50%;">
 Juuli  
 August  
 September  
@@ -21,7 +21,7 @@ Detsember
 
 ---
 
-
+<div style="text-align: left; float: left; width: 50%;">
 1. esimene
 2. teine
 3. kolmas
@@ -29,14 +29,17 @@ Detsember
 5. viies
 6. kuues
 7. seitsmes
+</div>
 
-9. üheksas
-10. kümnes
-11. üheteistkümnes
-20. kahekümnes
-22. kahekümne teine
-30. kolmekümnes
-30. kolmekümne esimene
+<div style="text-align: left; float: left; width: 50%;">
+<span>9. üheksas</span>
+<span>10. kümnes</span>
+<span>11. üheteistkümnes</span>
+<span>20. kahekümnes</span>
+<span>22. kahekümne teine</span>
+<span>30. kolmekümnes</span>
+<span>30. kolmekümne esimene</span>
+</div>
 
 ---
 ![The first father][First Father]
