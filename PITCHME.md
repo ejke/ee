@@ -21,27 +21,25 @@ Detsember
 
 ---
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+<div style="text-align: left; float: left; width: 50%;">
+<span>1. esimene  </span><br>
+<span>2. teine  </span><br>
+<span>3. kolmas  </span><br>
+<span>4. neljas  </span><br>
+<span>5. viies  </span><br>
+<span>6. kuues  </span><br>
+<span>7. seitsmes</span><br>
+</div>
 
-1. esimene  
-2. teine  
-3. kolmas  
-4. neljas  
-5. viies  
-6. kuues  
-7. seitsmes
 
 <div style="text-align: left; float: left; width: 50%;">
-<span>9. üheksas</span>
-<span>10. kümnes</span>
-<span>11. üheteistkümnes</span>
-<span>20. kahekümnes</span>
-<span>22. kahekümne teine</span>
-<span>30. kolmekümnes</span>
-<span>30. kolmekümne esimene</span>
+<span>9. üheksas</span><br>
+<span>10. kümnes</span><br>
+<span>11. üheteistkümnes</span><br>
+<span>20. kahekümnes</span><br>
+<span>22. kahekümne teine</span><br>
+<span>30. kolmekümnes</span><br>
+<span>30. kolmekümne esimene</span><br>
 </div>
 
 
@@ -123,3 +121,4 @@ Solarized dark             |  Solarized Ocean
 
 [First Father]: http://octodex.github.com/images/founding-father.jpg
 [Second Father]: http://octodex.github.com/images/foundingfather_v2.png
+<br>
