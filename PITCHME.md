@@ -43,7 +43,7 @@ Detsember
 
 
 ---
-
+<div style="font-size: 1rem;">
 Täna on 22.november.
 
 Esimene advent on ...
@@ -63,6 +63,7 @@ Emakeelepäev on 14.märtsil.
 1.juuni on Lastekaitsepäev.
 
 24.juunil on Jaanipäev
+</div>
 
 ---
 
