@@ -2,7 +2,7 @@
 
 ---
 
-Jaanuar       Veebruar
+Jaanuar &nbsp;&nbsp;&nbsp; Veebruar
 
 Märts     Aprill      Mai
 
