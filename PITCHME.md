@@ -97,13 +97,13 @@ Mis sa laupäeval teed?
 ## Kell
 <img alt="Kell" src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fll-us-i5.wal.co%2Fasr%2F2f10e09c-a676-465b-92a9-bdf0f1c7221e_1.aca3f7afc69e0aa13cc8996fee833245.jpeg-1c40199e0c62260cd7359d6239220f62e2241194-optim-2000x2000.jpg&f=1" style="width: 45%; margin-left: 5rem; border: none; background: none; box-shadow: none;" />
 
-| Kell on ... | Kell on pool seitse. |
+Kell on ... | Kell on pool seitse.  
 
-@snap[west process fragment]
+@snap[west]
 kolmveerand
 @snapend
 
-@snap[east process fragment]
+@snap[east]
 veerand
 @snapend
 
