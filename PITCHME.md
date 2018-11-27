@@ -56,20 +56,15 @@ Eesti keskmine palk on ...
 ---
 <img alt="Keskmine palk valdkonniti" src="https://www.rmp.ee/img/joonised/Screen_Shot_20180529_at_12.31.16.png" style="width: 80%; border: none; background: none; box-shadow: none;" />
 
-
-
----
-töö, keskmine palk valdkonniti. töö ja tööturg, olukord eestis
 ---
 
-![Perekonnanimed eestis](https://online.le.ee/wp-content/uploads/2017/06/perekonnanimed_2017.jpg)
+<img alt="Perekonnanimed eestis" src="https://online.le.ee/wp-content/uploads/2017/06/perekonnanimed_2017.jpg" style="width: 80%; border: none; background: none; box-shadow: none;" />
 
 ---
 
 # Kordamine
 
 ---
-
 
 pidu, klubid.
 kuhu minna
