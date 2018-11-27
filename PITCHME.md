@@ -13,9 +13,9 @@ Raha ja hind €
 
 ---
 
-Kui palju maksab ... ?
+@css[lefty](Kui palju maksab ... ?)
 
-See maksab ... .
+@css[lefty](See maksab ... .)
 
 //pilt ilmub pildi järel koos sildiga, mis see on ja hinnaga.
 ![Kalev eest]()
@@ -45,14 +45,14 @@ https://www.google.com/maps/d/viewer?oe=UTF8&msa=0&ie=UTF8&mid=1flgbaR8LQYv3GSXv
 
 Eesti keskmine palk on ...
 @snap[fragment]
-#### (1 354 eurot)[https://www.stat.ee/stat-keskmine-brutokuupalk] (bruto, Juuni 2018)
+#### [1 354 eurot](https://www.stat.ee/stat-keskmine-brutokuupalk) (bruto, Juuni 2018)
 @snapend
 
 ---
 
 ![Keskmine palk asukohiti](https://www.meiemaa.ee/imgfiles/image_artikkel.php?id=30465&x=340&y=170&piirang=1)
 
-
+---
 
 ![Keskmine palk valdkonniti](https://www.rmp.ee/img/joonised/Screen_Shot_20180529_at_12.31.16.png)
 

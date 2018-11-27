@@ -10,9 +10,15 @@
 
 
 .ykss {
+  text-align: left;
   color: red;
 }
 
 .kaks {
+  text-align: left;
   color: blue;
+}
+
+.lefty {
+  text-align: left;
 }
