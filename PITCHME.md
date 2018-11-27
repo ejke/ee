@@ -4,12 +4,12 @@ Raha ja hind €
 
 ---
 
-Kui palju see karp maasikaid maksab?
-- Viis eurot.
-Aga see karp mustikaid?
-- See on kolm viiskümmend.
-Mul on täpselt kolm eurot. Kas sellega saab?
-- Noh, saab kah. Siin on su mustikad!
+@css[ykss](Kui palju see karp maasikaid maksab?)
+@css[kaks](Viis eurot.)
+@css[ykss](Aga see karp mustikaid?)
+@css[kaks](See on kolm viiskümmend.)
+@css[ykss](Mul on täpselt kolm eurot. Kas sellega saab?)
+@css[kaks](Noh, saab kah. Siin on su mustikad!)
 
 ---
 
