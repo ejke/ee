@@ -3,14 +3,14 @@
 Raha ja hind €
 
 ---
-@css[lefty](
+<div class="lefty">
   @css[ykss](Kui palju see karp maasikaid maksab?)  
   @css[kaks](Viis eurot.)  
   @css[ykss](Aga see karp mustikaid?)  
   @css[kaks](See on kolm viiskümmend.)  
   @css[ykss](Mul on täpselt kolm eurot. Kas sellega saab?)  
   @css[kaks](Noh, saab kah. Siin on su mustikad!)  
-)
+</div>
 
 ---
 
@@ -31,7 +31,7 @@ Kust osta?
 
 ---
 
-<img alt="Kalev väljast" src="https://kalev.eu/wp-content/uploads/2016/04/Rotermanni-300x251.jpeg" style="width: 100%; border: none; background: none; box-shadow: none;" />
+<img alt="Kalev väljast" src="https://kalev.eu/wp-content/uploads/2016/04/Rotermanni-300x251.jpeg" style="width: 70%; border: none; background: none; box-shadow: none;" />
 ---
 ![Kalev eest](https://anitakarma.com/wp-content/uploads/2017/09/Kalevikommipood_20-1.jpg)
 
@@ -51,10 +51,10 @@ Eesti keskmine palk on ...
 @snapend
 
 ---
-<img alt="Keskmine palk asukohiti" src="https://www.meiemaa.ee/imgfiles/image_artikkel.php?id=30465&x=340&y=170&piirang=1" style="width: 100%; border: none; background: none; box-shadow: none;" />
+<img alt="Keskmine palk asukohiti" src="https://www.meiemaa.ee/imgfiles/image_artikkel.php?id=30465&x=340&y=170&piirang=1" style="width: 80%; border: none; background: none; box-shadow: none;" />
 
 ---
-<img alt="Keskmine palk valdkonniti" src="https://www.rmp.ee/img/joonised/Screen_Shot_20180529_at_12.31.16.png" style="height: 100%; border: none; background: none; box-shadow: none;" />
+<img alt="Keskmine palk valdkonniti" src="https://www.rmp.ee/img/joonised/Screen_Shot_20180529_at_12.31.16.png" style="width: 80%; border: none; background: none; box-shadow: none;" />
 
 
 
