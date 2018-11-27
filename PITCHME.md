@@ -3,13 +3,14 @@
 Raha ja hind €
 
 ---
-
-@css[ykss](Kui palju see karp maasikaid maksab?)  
-@css[kaks](Viis eurot.)  
-@css[ykss](Aga see karp mustikaid?)  
-@css[kaks](See on kolm viiskümmend.)  
-@css[ykss](Mul on täpselt kolm eurot. Kas sellega saab?)  
-@css[kaks](Noh, saab kah. Siin on su mustikad!)  
+@css[lefty](
+  @css[ykss](Kui palju see karp maasikaid maksab?)  
+  @css[kaks](Viis eurot.)  
+  @css[ykss](Aga see karp mustikaid?)  
+  @css[kaks](See on kolm viiskümmend.)  
+  @css[ykss](Mul on täpselt kolm eurot. Kas sellega saab?)  
+  @css[kaks](Noh, saab kah. Siin on su mustikad!)  
+)
 
 ---
 
@@ -29,7 +30,8 @@ Kust osta?
 ![Rimi](https://www.vorumaateataja.ee/images/thumbnails/images/2017/05mai/paberleht/voru_mini_rimi-area-729x390.jpg)
 
 ---
-![Kalev väljast](https://kalev.eu/wp-content/uploads/2016/04/Rotermanni-300x251.jpeg)
+
+<img alt="Kalev väljast" src="https://kalev.eu/wp-content/uploads/2016/04/Rotermanni-300x251.jpeg" style="width: 100%; border: none; background: none; box-shadow: none;" />
 ---
 ![Kalev eest](https://anitakarma.com/wp-content/uploads/2017/09/Kalevikommipood_20-1.jpg)
 
@@ -49,12 +51,12 @@ Eesti keskmine palk on ...
 @snapend
 
 ---
-
-![Keskmine palk asukohiti](https://www.meiemaa.ee/imgfiles/image_artikkel.php?id=30465&x=340&y=170&piirang=1)
+<img alt="Keskmine palk asukohiti" src="https://www.meiemaa.ee/imgfiles/image_artikkel.php?id=30465&x=340&y=170&piirang=1" style="width: 100%; border: none; background: none; box-shadow: none;" />
 
 ---
+<img alt="Keskmine palk valdkonniti" src="https://www.rmp.ee/img/joonised/Screen_Shot_20180529_at_12.31.16.png" style="height: 100%; border: none; background: none; box-shadow: none;" />
 
-![Keskmine palk valdkonniti](https://www.rmp.ee/img/joonised/Screen_Shot_20180529_at_12.31.16.png)
+
 
 ---
 töö, keskmine palk valdkonniti. töö ja tööturg, olukord eestis
